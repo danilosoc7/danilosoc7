@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Danilo Souza</h1>
+<h1 align="center">Olá 👋, Eu sou Danilo Souza</h1>
 <h3 align="center">Apaixonado por tecnologias inovadoras e análise de dados</h3>
 
 - 🌱 Estou aprendendo atualmente **Python e Java**
