@@ -1,7 +1,7 @@
 <h1 align="center">Olá 👋, Eu sou Danilo Souza</h1>
 <h3 align="center">Apaixonado por tecnologias inovadoras e análise de dados</h3>
 
-- 🌱 Estou aprendendo atualmente **Python e Java**
+- 🌱 Estou aprendendo atualmente **Python e Deplhi**
 
 - 💬 Me pergunte sobre **C, HTML, CSS, JS, Excel, SQL, PowerBI e Python**
 
